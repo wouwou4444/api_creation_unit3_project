@@ -19,6 +19,8 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.11.0",
     "webpack": "^3.5.5"
   },
   "scripts": {
